@@ -1,7 +1,8 @@
 # 📊 Sales Data Analysis Project
 
 ## 🔹 Objective
-Analyze sales data to find monthly revenue, best products and profit trends.
+Analyze a sales dataset to identify monthly revenue trends,
+best-selling products, and profit patterns using Python.
 
 ## 🔹 Dataset
 File: sales.csv  
@@ -31,10 +32,31 @@ Contains Date, Product, Units_Sold, Unit_Price, Cost
 ## 🥧 Profit Share
 ![Profit Pie](Charts/profit_pie.png)
 
+## 🔹 Final Insights
+- February recorded the highest revenue.
+- Laptop generated the maximum profit.
+- Mouse was the best-selling product.
+- Profit trend increased steadily across months.
+
+## 🔹 Project Structure
+
+sales-data-analysis/
+│
+├── data/sales.csv
+├── notebooks/sales_analysis.ipynb
+├── Charts/
+└── README.md
+
 ## 🔹 How to Run
 1. Install Python libraries
 2. Open sales_analysis.ipynb
 3. Run all cells
 
+## 🔹 Future Improvements
+- Add interactive dashboard using Streamlit
+- Use larger real-world dataset
+- Add forecasting using Machine Learning
+
 ## 🔹 Author
 Smruti Apar
+CSE Student
