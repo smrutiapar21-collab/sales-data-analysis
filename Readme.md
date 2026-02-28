@@ -22,6 +22,14 @@ Contains Date, Product, Units_Sold, Unit_Price, Cost
 - Line Chart → Monthly Revenue
 - Bar Chart → Best Products
 - Pie Chart → Profit Share
+## 📈 Monthly Revenue
+![Monthly Revenue](charts/monthly_revenue.png)
+
+## 📊 Best Products
+![Best Products](charts/best_products.png)
+
+## 🥧 Profit Share
+![Profit Pie](charts/profit_pie.png)
 
 ## 🔹 How to Run
 1. Install Python libraries
