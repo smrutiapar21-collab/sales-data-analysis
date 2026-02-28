@@ -33,10 +33,10 @@ Contains Date, Product, Units_Sold, Unit_Price, Cost
 ![Profit Pie](Charts/profit_pie.png)
 
 ## 🔹 Final Insights
-- February recorded the highest revenue.
+- January recorded the highest revenue.
 - Laptop generated the maximum profit.
 - Mouse was the best-selling product.
-- Profit trend increased steadily across months.
+- Revenue decreased after January.
 
 ## 🔹 Project Structure
 
